@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1680 1680" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-660,-660.045)">
+        <g>
+            <g transform="matrix(0.84,0,0,0.84,240,240.004)">
+                <rect x="500" y="500.049" width="2000" height="1999.95" style="fill:url(#_Linear1);"/>
+            </g>
+            <g transform="matrix(1.1,0,0,1,-480,500)">
+                <rect x="1800" y="500" width="200" height="1000" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1.1,0,0,1,-200,500)">
+                <rect x="1800" y="500" width="200" height="1000" style="fill:white;"/>
+            </g>
+            <g transform="matrix(0.707107,0.707107,-0.707107,0.707107,684.266,-376.248)">
+                <path d="M1550,500L1550,750L1800,750C1800,888.071 1688.07,1000 1550,1000C1412.02,1000 1300,887.979 1300,750C1300,611.929 1411.93,500 1550,500Z" style="fill:white;"/>
+            </g>
+            <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,2000,200.049)">
+                <path d="M1550,500L1550,750L1800,750C1800,888.071 1688.07,1000 1550,1000C1412.02,1000 1300,887.979 1300,750C1300,611.929 1411.93,500 1550,500Z" style="fill:white;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,20)">
+            <clipPath id="_clip2">
+                <circle cx="1240" cy="1100" r="40"/>
+            </clipPath>
+            <g clip-path="url(#_clip2)">
+                <g transform="matrix(1,-0,-0,1,660,640.045)">
+                    <use xlink:href="#_Image3" x="540" y="419.955" width="80px" height="80px"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-2000,1999.95,-1999.95,-2000,2500,500.049)"><stop offset="0" style="stop-color:rgb(57,59,131);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(30,31,91);stop-opacity:1"/></linearGradient>
+        <image id="_Image3" width="80px" height="80px" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCABQAFADAREAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAEDB//EABUQAQEAAAAAAAAAAAAAAAAAAAAR/8QAGQEBAQEBAQEAAAAAAAAAAAAAAAEDAgQH/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AOP19AeOFBatQpRSgoUFoFUCjGs3S0ClFpUhVpFoRaIVaAKtGNZOigq0CgBVFoFKLVqRaEY1kq1QKBRaoUClFWgUKoyrIWlBaKBQWgLQKALVGNZAtFpQoLVFoFKKtCgUGNZkUoFCqLQKCrQpRaBVGTKqLRaUKBVIpUgUKtFoFBmzqhQpRaoUAoLRaBQhVSMqyqrShVFoAKtClCqLQAf/2Q=="/>
+    </defs>
+</svg>

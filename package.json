@@ -1,0 +1,40 @@
+{
+  "name": "attendance",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "dev:https": "next dev --experimental-https",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icon": "^3.2.0",
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.1",
+    "@mui/material": "^5.15.1",
+    "@zxing/browser": "^0.1.4",
+    "@zxing/library": "^0.20.0",
+    "axios": "^1.6.2",
+    "framer-motion": "^10.17.12",
+    "mysql2": "^3.6.5",
+    "next": "14.0.4",
+    "promise-mysql": "^5.2.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-use": "^17.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "local-ssl-proxy": "^2.0.5",
+    "typescript": "^5"
+  }
+}
