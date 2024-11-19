@@ -8,7 +8,7 @@ PBLは専門分野の異なる班員と協力して,課題の決定,製作計画
 特徴:学生証裏にあるバーコードで授業の出席ができる.出席すると出席確認ボードの LEDが光り,どこに着席すれば良いかわかる.出席日数が危なくなるとメールを送信出来るようになる.
 
 ## 使用言語
-Node.js / Next.js / Typescript / Python
+Node.js / Next.js / Typescript / Python / MySQL
 
 ## システム構成図
 ![pbl画像](https://github.com/user-attachments/assets/6015c7a4-f5e1-4662-8222-fde01fa3dcd0)
